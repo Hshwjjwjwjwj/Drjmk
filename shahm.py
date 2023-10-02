@@ -37,8 +37,8 @@ import random
 APP_ID =23448442
 APP_HASH='c866f6a9330db54550db52c2c590d87c'
 #bot_token='6562457500:AAHtpXHyrXqtRP3JzM638Nf7Bc8g9-Atmvw'
-abbas=TelegramClient('bot', APP_ID, APP_HASH)
-abbas.start()
+abbas=TelegramClient('SiMuslcbot', APP_ID, APP_HASH)
+abbas.start(+37122298363)
 a = requests.session()
 bot_username = '@eeobot'
 bot_username1 = '@A_MAN9300BOT'
