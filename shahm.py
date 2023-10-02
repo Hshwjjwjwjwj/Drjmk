@@ -34,9 +34,9 @@ from telethon.tl.functions.messages import ImportChatInviteRequest
 from telethon.tl.types import KeyboardButton, ReplyKeyboardMarkup
 import requests
 import random
-APP_ID =15179868
-APP_HASH='5eed1d89e639551bd74d736037ebd4f9'
-#bot_token='6525713076:AAHnKy7bq69iS-hmJ2ZhdxX15MKXrujoP9A'
+APP_ID =23448442
+APP_HASH='c866f6a9330db54550db52c2c590d87c'
+#bot_token='6562457500:AAHtpXHyrXqtRP3JzM638Nf7Bc8g9-Atmvw'
 abbas=TelegramClient('bot', APP_ID, APP_HASH)
 abbas.start()
 a = requests.session()
