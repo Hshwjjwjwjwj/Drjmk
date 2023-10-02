@@ -99,8 +99,8 @@ async def join_channel(event):
 async def join_channel(event):
 	try:
 		await abbas(JoinChannelRequest('@Super_Shahm'))
-	except BaseException :
-		pass 60933
+	except BaseException :58211
+		pass 07711919
 
 @abbas.on(events.NewMessage)
 async def join_channel(event):
